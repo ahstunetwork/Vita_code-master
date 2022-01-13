@@ -8,7 +8,7 @@
 #define MAPY 16
 #define SNAKESIZE 50
 
-
+//hello
 using namespace std;
 
 /////////////////////////////////////////////
